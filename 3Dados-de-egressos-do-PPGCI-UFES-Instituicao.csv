@@ -1,0 +1,7 @@
+idInstituicao,siglaInstituicaoUnidade,sigla,nomeIES,unidade,idCidade,cidade,estado,pais,paginaWeb
+INS0001,UFES - campus Vitória,UFES,Universidade Federal do Espírito Santo,Campus Vitória,CID0001,Vitória,ES,Brasil,https://www.ufes.br/
+INS0002,UFES - campus Alegre,UFES,Universidade Federal do Espírito Santo,Campus Alegre,CID0003,Alegre,ES,Brasil,https://alegre.ufes.br/
+INS0003,UFES - campus Goiabeiras,UFES,Universidade Federal do Espírito Santo,Campus Goiabeiras,CID0001,Vitória,ES,Brasil,https://www.ufes.br/
+INS0004,UFES - campus Maruípe,UFES,Universidade Federal do Espírito Santo,Campus Maruípe,CID0001,Vitória,ES,Brasil,https://ccs.ufes.br/
+INS0005,UFES - campus São Mateus,UFES,Universidade Federal do Espírito Santo,Campus São Mateus,CID0002,São Mateus,ES,Brasil,https://saomateus.ufes.br/
+INS0006,IFES - campus Vitória,IFES,Instituto Federal do Espírito Santo,Campus Vitória,CID0001,Vitória,ES,Brasil,https://vitoria.ifes.edu.br/
